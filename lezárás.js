@@ -10,4 +10,3 @@ if (a === 1 ){
     location.reload();
 }
 }
-}
